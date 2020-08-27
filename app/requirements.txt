@@ -1,0 +1,15 @@
+databases
+pyjwt
+fastapi
+pydantic[email]
+pymysql
+pydantic
+loguru
+uvicorn
+emails
+
+passlib[bcrypt]
+python-multipart
+uvicorn
+# DEV
+# alembic
